@@ -1,0 +1,1 @@
+execute as @a if entity @s[tag=Admin,nbt={SelectedItem:{tag:{Tags:["AdminHoe"]}}}]
