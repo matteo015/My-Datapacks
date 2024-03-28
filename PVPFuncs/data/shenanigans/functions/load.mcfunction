@@ -1,0 +1,1 @@
+tellraw @a {"text": "Datapack PVP Functions foi carregado com sucesso","bold":true,"italic": true,"color": "dark_purple"}
