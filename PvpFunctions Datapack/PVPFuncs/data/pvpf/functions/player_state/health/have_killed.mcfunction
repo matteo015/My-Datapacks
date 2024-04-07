@@ -5,5 +5,5 @@ execute as @a if entity @s[scores={curar=1..}] run effect give @s[type=player] m
 
 execute as @a if entity @s[scores={curar=1..}] run tp @s 12 52 18 facing 12 53 2
 
-execute as @a if entity @s[scores={curar=1}] run playsound block.end_portal.spawn block @s ~ ~ ~ 10 1.5 1
+execute as @a if entity @s[scores={curar=1}] run playsound block.end_portal.spawn block @s ~ ~ ~ 0.8 1.5 1
 execute as @a if entity @s[scores={curar=1..}] run scoreboard players set @s curar 0

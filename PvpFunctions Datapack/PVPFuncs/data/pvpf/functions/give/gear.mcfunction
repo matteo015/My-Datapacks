@@ -1,3 +1,5 @@
+clear @p minecraft:golden_carrot
+clear @p minecraft:arrow
 item replace entity @p weapon.offhand with shield{Unbreakable:1,Enchantments:[{id:"mending",lvl:1}]}
 item replace entity @p hotbar.0 with netherite_sword{Unbreakable:1,Enchantments:[{id:"sharpness",lvl:5},{id:"fire_aspect",lvl:2}]}
 item replace entity @p hotbar.1 with netherite_axe{Unbreakable:1,Enchantments:[{id:"sharpness",lvl:7}]}
